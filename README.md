@@ -4,4 +4,4 @@
 
 Проект был проверен по всем пунктам чек-листа и полностью готов к использованию.
 
-Ссылка на Github Pages: https://github.com/LyubovVrublevskaia/yandex-first-project
+Ссылка на Github Pages: https://lyubovvrublevskaia.github.io/yandex-first-project/
